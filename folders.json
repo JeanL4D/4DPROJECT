@@ -1,0 +1,17 @@
+﻿{
+	"Dossier par défaut": {
+		"groups": [
+			"Tables par défaut",
+			"Formulaires par défaut",
+			"Méthodes projet par défaut"
+		]
+	},
+	"Tables par défaut": {
+		"tables": [
+			"test"
+		]
+	},
+	"Formulaires par défaut": {},
+	"Méthodes projet par défaut": {},
+	"trash": {}
+}

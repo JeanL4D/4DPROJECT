@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><preferences stamp="3">
+	<com.4d>
+		<general allow_user_settings="true" execute_host_database_event="true"/>
+		<database>
+			<misc/>
+          		</database>
+		<deployment>
+			<options/>
+		</deployment>
+          	</com.4d>
+  </preferences>
