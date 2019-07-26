@@ -11,6 +11,9 @@
   //test8
   //test9
   //10
+  //11
+  //12
+
 TRUNCATE TABLE:C1051([test:1])
   //test
 DELAY PROCESS:C323(Current process:C322;60)  // pour que le TRUNCATE se fasse completement
