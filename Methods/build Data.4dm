@@ -4,6 +4,7 @@
 
   //test2
   //test3
+  //test4
 TRUNCATE TABLE:C1051([test:1])
   //test
 DELAY PROCESS:C323(Current process:C322;60)  // pour que le TRUNCATE se fasse completement
