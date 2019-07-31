@@ -2,17 +2,7 @@
 
   // Modified by: Jean (25/07/2019)
 
-  //test2
-  //test3
-  //test4
-  //test5
-  //tes6
-  //test7
-  //test8
-  //test9
-  //10
-  //11
-  //12
+  //T1
 
 TRUNCATE TABLE:C1051([test:1])
   //test
