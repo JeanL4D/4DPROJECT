@@ -1,5 +1,5 @@
 //%attributes = {}
-Tools_GitCommit ("hop";"F:\\Basesv17\\BasesInternes\\Home\testGit\\SuspendTransactionJL\\Project\\Sources\\")
+Tools_GitCommit ("hop";"F:\\Basesv17\\BasesInternes\\Home\\testGit\\SuspendTransactionJL\\Project\\Sources\\")
 
 
 
@@ -9,4 +9,3 @@ Tools_GitCommit ("hop";"F:\\Basesv17\\BasesInternes\\Home\testGit\\SuspendTransa
   //  $gitfolder:=$dbfolder+"Project\\Sources\\"
   //  Tools_GitDefineFolder ($gitfolder)
 
-SET ENVIRONMENT VARIABLE:C812
