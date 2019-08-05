@@ -10,6 +10,7 @@
   //T6
   //T7
   //T8
+  //T9
 
 TRUNCATE TABLE:C1051([test:1])
   //test

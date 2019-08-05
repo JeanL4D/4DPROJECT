@@ -1,5 +1,5 @@
 //%attributes = {}
-Tools_GitCommit ("hop1";"F:\\Basesv17\\BasesInternes\\Home\\testGit\\SuspendTransactionJL\\Project\\Sources\\")
+Tools_GitCommit ("hop2";"F:\\Basesv17\\BasesInternes\\Home\\testGit\\SuspendTransactionJL\\Project\\Sources\\")
 
 
 
