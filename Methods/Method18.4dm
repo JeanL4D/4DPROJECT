@@ -6,7 +6,9 @@ Use (Storage:C1525)
 	Storage:C1525.test2:=New shared object:C1526("test";$text2)
 End use 
 
-
+  //p1
 ALERT:C41(Storage:C1525.test.test)
 ALERT:C41(Storage:C1525.test2.test)
+
+
 TRACE:C157
